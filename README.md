@@ -1,16 +1,18 @@
 # docs
 
-## Testing Documentation
-checklist for testing the modules "Registration", "Authorization", "Product Catalog"
+## Тестовая документация
+Для приложения "Интернет-магазин" необходимо было: написать чек-лист для тестирования регистрации, логина и каталога; тест-кейсы для тестирования регистрации, логина и каталога; выполнить тестовый прогон написанных тест-кейсов; составить отчеты о дефектах.
+
+Чек-лист для тестирования модулей "Registration", "Authorization", "Product Catalog"
  - [Ссылка на документ](https://docs.google.com/spreadsheets/d/15e5Hd8hpqYXbGrc4b_505nycblRvCi6lnqqOneeY9AA/edit?usp=sharing)
 
-test case (modules "Registration", "Authorization", "Product Catalog")
-- [Ссылка на документ](https://app.qase.io/project/G9?suite=197)
+Тест-кейсы из системы Qase, экспортированные в формате PDF (modules "Registration", "Authorization", "Product Catalog")
+- [Ссылка на документ](https://drive.google.com/file/d/1ye8ngtcVbuB_oMYCzicemUHVY9Xu3vSe/view?usp=share_link)
 
-test run results
-- [Ссылка на документ 1](https://app.qase.io/run/G9/dashboard/130?tab=run-history) 
-- [Ссылка на документ 2](https://app.qase.io/run/G9/dashboard/156)
+Файлы с результатами тестового прогона из системы Qase, экспортированными в формате PDF
+- [Ссылка на документ 1](https://drive.google.com/file/d/1d7BptgNa3-icdYOZ9gZU2-C69-bwDlaY/view?usp=share_link) 
+- [Ссылка на документ 2](https://drive.google.com/file/d/1AAP01DN0Lo0etfOkrJ8kNpGp41lUftYb/view?usp=share_link)
 
-bug reports
-- [Ссылка на документ](https://artsiomrusau.youtrack.cloud/issue/G9-982/Testing-Documentation-Vera-Gracheva)
+Файл с отчетами о дефектах из системы YouTrack, экспортированными в формате XLSX
+- [Ссылка на документ](https://docs.google.com/spreadsheets/d/1-lRt10dmUqXK13tx_ZZipxaHS3Bd_aGL/edit?usp=share_link&ouid=101630438106977892614&rtpof=true&sd=true)
 
